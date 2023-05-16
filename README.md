@@ -2,7 +2,7 @@
 
 ## ÍNDICE
 
-* [1. Intro](*)
+* [1. Intro](https://github.com/berenicemoralesojeda/InterfazClonDeGoogle/blob/main/README.md#clonación-de-interfaz-de-google)
 * [2. Qué construí](*)
 * [3. Objetivo del proyecto](*)
 
@@ -19,6 +19,6 @@ En este proyecto en enfoqué en construir la clonación de la interfaz de Google
 * **Main**: Sección del contenedor para los elementos centrales de la página.
 * **Footer**: Sección que incluye hipervínculos al final de la página.
 
-## Objetivo del Proyecto
+## 3. Objetivo del Proyecto
 
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
