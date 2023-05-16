@@ -3,7 +3,7 @@
 ## ÍNDICE
 
 * [1. Intro](https://github.com/berenicemoralesojeda/InterfazClonDeGoogle/blob/main/README.md#clonación-de-interfaz-de-google)
-* [2. Qué construí](https://github.com/berenicemoralesojeda/InterfazClonDeGoogle/blob/main/*)
+* [2. Qué construí](https://github.com/berenicemoralesojeda/InterfazClonDeGoogle/blob/main/README.md#2-qué-constru%C3%AD)
 * [3. Objetivo del proyecto](*)
 
 ****
