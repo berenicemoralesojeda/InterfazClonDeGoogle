@@ -19,6 +19,6 @@ En este proyecto en enfoqué en construir la clonación de la interfaz de Google
 * **Main**: Sección del contenedor para los elementos centrales de la página.
 * **Footer**: Sección que incluye hipervínculos al final de la página.
 
-## Obejtivo del Proyecto
+## Objetivo del Proyecto
 
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
